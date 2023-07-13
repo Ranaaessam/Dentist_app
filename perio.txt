@@ -1,0 +1,3 @@
+0 non periodontal
+1 periodontal
+2 Un Recognized
